@@ -1,3 +1,3 @@
 # SolAntigua-Capturas
 
-##Capturas sobre la flota y demás información de sol antigua.
+## Capturas sobre la flota y demás información de Sol Antigua.
