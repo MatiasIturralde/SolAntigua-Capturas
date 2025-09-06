@@ -58,6 +58,7 @@ body {
     overflow: hidden;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s ease;
+    text-align: center;
 }
 
 .bus-card:hover {
@@ -70,4 +71,5 @@ body {
     height: 200px;
     object-fit: cover;
     border-bottom: 1px solid #e0e0e0;
+
 }
